@@ -1,1 +1,1 @@
-THIS PROJECT CONtains the file of generic cmpd 
+THIS PROJECT CONtains the file of generic cmpd 1
