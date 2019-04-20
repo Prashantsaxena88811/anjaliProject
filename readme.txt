@@ -1,0 +1,1 @@
+THIS PROJECT CONtains the file of generic cmp
